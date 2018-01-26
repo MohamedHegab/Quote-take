@@ -13,10 +13,14 @@ Go to the project folder and run the following:
 npm install
 ```
 # serve with hot reload at localhost:8080
+```sh
 npm run dev
+```
 
 # build for production with minification
+```sh
 npm run build
+```
 
 ## Built With
 
