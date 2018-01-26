@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <quoteStatus></quoteStatus>
     
   </div>
 </template>
