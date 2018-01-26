@@ -11,12 +11,7 @@
 
 <script>
 export default {
-  props: ['quoteCount'],
-  data() {
-  	return {
-  		quoteCount: 0
-  	}
-  }
+  props: ['quoteCount']
 }
 </script>
 
